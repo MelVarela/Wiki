@@ -1,0 +1,115 @@
+/* Ajustes Nav */
+.barraNav {
+	position: relative;
+	z-index: 999;
+}
+.barraNav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.barraNav li {
+	display: inline-block;
+}
+.barraNav li a {
+	display: block;
+	padding: 10px 20px;
+	text-decoration: none;
+}
+/* Menu */
+.barraNav ul ul {
+	position: absolute;
+	top: 100%;
+	display: none;
+	background-color: white;
+	box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.4);
+}
+.barraNav ul ul li {
+	display: block;
+}
+.barraNav li:hover ul {
+	display: block;
+}
+.barraNav a:hover{
+	text-decoration: underline;
+}
+
+/* Header */
+header{
+	float: left;
+	width: 65%;
+}
+header div{
+	display: inline;
+}
+
+/* Aside (Índice) */
+aside{
+	float: left;
+	width: 10%;
+	height: 100%;
+}
+aside ul{
+	list-style-type: none;
+}
+aside a:visited{
+	color: #3366CC;
+}
+
+/* Section (Articulo principal) */
+section{
+	margin-top: 20px;
+	float: left;
+	width: 65%;
+}
+
+/* Figure (Tabla general) */
+figure{
+	float: right;
+	width: 20%;
+}
+figure table{
+	border-collapse: collapse;
+	text-align: center;
+}
+figure table td{
+	width: 10%;
+	border: thin solid grey;
+	padding: 5px;
+}
+
+/* Footer */
+footer{
+	float: left;
+	width: 65%;
+	font-size: 10px;
+	margin-top: 50px;
+}
+
+/* Ajustes generales */
+a{
+	color: #3366CC;
+	text-decoration: none;
+}
+a:visited{
+	color: #8D75BE;
+}
+a:hover{
+	text-decoration: underline;
+}
+h1, h2{
+	margin: 0px;
+	margin-top: 15px;
+	font-family: Times New Roman;
+}
+*{
+	font-family: arial;
+}
+
+/* IDs */
+#visibleNot{
+	display: none;
+}
+#derecha{
+	margin-left: 82%;
+}
