@@ -77,6 +77,13 @@ figure table td{
 	border: thin solid grey;
 	padding: 5px;
 }
+figure .tablaInt, figure .tablaInt td{
+	padding: 5px;
+	border: 0px;
+}
+.tablaHead{
+	background-color: #E6E6FA;
+}
 
 /* Footer */
 footer{
@@ -101,6 +108,12 @@ h1, h2{
 	margin: 0px;
 	margin-top: 15px;
 	font-family: Times New Roman;
+}
+h3{
+	font-family: Times New Roman;
+	margin: 0px;
+	margin-top: 15px;
+	margin-left: 15px;
 }
 *{
 	font-family: arial;
