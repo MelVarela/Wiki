@@ -46,11 +46,14 @@ header div{
 /* Aside (Índice) */
 aside{
 	float: left;
-	width: 10%;
+	width: 13%;
 	height: 100%;
 }
 aside ul{
 	list-style-type: none;
+}
+aside ul li{
+	padding: 2px 0px;
 }
 aside a:visited{
 	color: #3366CC;
@@ -60,7 +63,11 @@ aside a:visited{
 section{
 	margin-top: 20px;
 	float: left;
-	width: 65%;
+	width: 62%;
+}
+section ul li{
+	font-size: 90%;
+	padding: 4px 0px;
 }
 
 /* Figure (Tabla general) */
