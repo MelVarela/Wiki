@@ -53,7 +53,7 @@ aside ul{
 	list-style-type: none;
 }
 aside ul li{
-	padding: 2px 0px;
+	padding: 3px 0px;
 }
 aside a:visited{
 	color: #3366CC;
@@ -68,6 +68,11 @@ section{
 section ul li{
 	font-size: 90%;
 	padding: 4px 0px;
+}
+.MA{
+	font-size: 85%;
+	font-style: italic;
+	margin-left: 50px;
 }
 
 /* Figure (Tabla general) */
@@ -106,7 +111,7 @@ a{
 	text-decoration: none;
 }
 a:visited{
-	color: #8D75BE;
+	color: #3366CC; /*Morado: #8D75BE*/
 }
 a:hover{
 	text-decoration: underline;
