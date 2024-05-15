@@ -138,3 +138,25 @@ h3{
 #derecha{
 	margin-left: 82%;
 }
+
+/* Fotos */
+.fotoL{
+	border: thin solid grey;
+	width: 20%;
+	font-size: 80%;
+	float:left;
+	margin-right: 10px;
+}
+.fotoL img{
+	width: 100%;
+}
+.fotoR{
+	border: thin solid grey;
+	width: 20%;
+	font-size: 80%;
+	float:right;
+	margin-left: 10px;
+}
+.fotoR img{
+	width: 100%;
+}
