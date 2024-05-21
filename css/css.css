@@ -160,3 +160,10 @@ h3{
 .fotoR img{
 	width: 100%;
 }
+
+/* Citas */
+.cita{
+	border-left: 2px solid grey;
+	margin-left: 30px;
+	padding-left: 12px;
+}
