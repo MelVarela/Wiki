@@ -89,9 +89,15 @@ figure table td{
 	border: thin solid grey;
 	padding: 5px;
 }
-figure .tablaInt, figure .tablaInt td{
+figure .tablaInt{
 	padding: 5px;
 	border: 0px;
+	width: 100%;
+}
+figure .tablaInt td{
+	padding: 5px;
+	border: 0px;
+	width: 50%;
 }
 .tablaHead{
 	background-color: #E6E6FA;
@@ -138,6 +144,12 @@ h3{
 #derecha{
 	margin-left: 82%;
 }
+#izquierdaAL{
+	text-align: left;
+}
+#derechaAL{
+	text-align: right;
+}
 
 /* Fotos */
 .fotoL{
@@ -166,4 +178,11 @@ h3{
 	border-left: 2px solid grey;
 	margin-left: 30px;
 	padding-left: 12px;
+}
+
+/* Aviso chikito */
+.avisoMin{
+	font-style: italic;
+	margin-left: 25px;
+	margin-top: 0px;
 }
