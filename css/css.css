@@ -195,3 +195,32 @@ h3{
 	margin-left: 25px;
 	margin-top: 0px;
 }
+
+/* Marco principal */
+.marcoPrincipal{
+	border: thin solid grey;
+	margin-top: 10px;
+	padding-bottom: 8px;
+	text-align: center;
+	width: 90%;
+	background: linear-gradient(#EAECF0, white);
+}
+.marcoPrincipal h1{
+	font-weight: normal;
+}
+
+/* Marcos chikitos */
+.marcoSecundario{
+	float: left;
+	border: thin solid grey;
+	width: 46%;
+	margin: 10px;
+	padding-top: 0px;
+}
+.marcoSecundario h1{
+	font-weight: normal;
+	padding-top: 0px;
+}
+.marcoSecundario td{
+	padding-top: 0px;
+}
