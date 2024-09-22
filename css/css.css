@@ -196,7 +196,7 @@ h3{
 	margin-top: 0px;
 }
 
-/* Marco principal */
+/* Marcos index */
 .marcoPrincipal{
 	border: thin solid grey;
 	margin-top: 10px;
@@ -209,18 +209,24 @@ h3{
 	font-weight: normal;
 }
 
-/* Marcos chikitos */
 .marcoSecundario{
 	float: left;
-	border: thin solid grey;
+	border: thin solid rgb(143, 133, 133);
 	width: 46%;
 	margin: 10px;
 	padding-top: 0px;
 }
+
 .marcoSecundario h1{
 	font-weight: normal;
 	padding-top: 0px;
 }
+
 .marcoSecundario td{
 	padding-top: 0px;
+}
+
+.marcoTerciario{
+	border: thin solid rgb(132, 192, 164);
+	width: 90%;
 }
