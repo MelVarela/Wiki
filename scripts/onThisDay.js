@@ -77,7 +77,7 @@ let d4 = new data("4 11 2533","M","Cásssidy Ortiz Medina","Comisario Xeral","ca
 let d5 = new data("19 8 2040","S","o intento de bombardeo nuclear do Imperio de Eridanus","","conflictos_de_unificacion_planetaria.html");
 let d6 = new data("2 6 2044","S","a aprobación da constitución de eridanus","","constitucion_de_eridanus.html");
 let d7 = new data("16 9 2000","N","Cécil Ortiz","Comisario de defensa","cecil_ortiz.html");
-let d8 = new data("17 1 2534","S","a disolución do comisariado","","comisariado_de_eridanus.html");
+let d8 = new data("17 1 2535","S","a disolución do comisariado","","comisariado_de_eridanus.html");
 let d9 = new data("6 6 2037","S","o comezo dos conflictos de unificación planetaria","","conflictos_de_unificacion_planetaria.html");
 let d10 = new data("28 1 2038","S","a invasión do Reino Unido por parte de eridanus","","conflictos_de_unificacion_planetaria.html");
 let d11 = new data("26 4 2038","S","a invasión eridanense de Alxeria e Marrocos","","conflictos_de_unificacion_planetaria.html");
@@ -88,6 +88,7 @@ let d15 = new data("3 11 1987","N","Pepe Naya","Alcalde de Amarela","pepe_naya.h
 let d16 = new data("12 1 2054","M","Pepe Naya","Alcalde de Amarela","pepe_naya.html");
 let d17 = new data("1 10 1989","N","Letizia Varela","Alcaldesa de Amarela","letizia_varela.html");
 let d18 = new data("4 10 2064","M","Letizia Varela","Alcaldesa de Amarela","letizia_varela.html");
+let d19 = new data("17 1 2535","S","a disolución do Comisariado de Eridanus","","comisariado_de_eridanus.html");
 
 datas.push(d1);
 datas.push(d2);
@@ -107,13 +108,15 @@ datas.push(d15);
 datas.push(d16);
 datas.push(d17);
 datas.push(d18);
+datas.push(d19);
 
 let text = "<ul>";
 let separacionCalculo = fechaCalculo.split(" ");
 
 for(i = 0; i < datas.length; i++){
     let separacion = datas[i].data.split(" ");
-    if(separacion[0] == separacionCalculo[0] && separacion[1] == separacion[1]){
+    if((separacion[0] == separacionCalculo[0]) && (separacion[1] == separacionCalculo[1])){
+        console.log(datas[i].afectado);
         procesar(datas[i]);
     }
 }
