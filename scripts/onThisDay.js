@@ -57,7 +57,7 @@ class data{
         /*
             N: Nace
             M: Muere
-            C: Comienza
+            C: Comeza
             F: Finaliza
             S: Sucede
         */
@@ -89,26 +89,13 @@ let d16 = new data("12 1 2054","M","Pepe Naya","Alcalde de Amarela","pepe_naya.h
 let d17 = new data("1 10 1989","N","Letizia Varela","Alcaldesa de Amarela","letizia_varela.html");
 let d18 = new data("4 10 2064","M","Letizia Varela","Alcaldesa de Amarela","letizia_varela.html");
 let d19 = new data("17 1 2535","S","a disolución do Comisariado de Eridanus","","comisariado_de_eridanus.html");
+let d20 = new data("9 10 2354","C","a Rebelión dos polos","tamen coñecida coma a guerra civil eridanense","rebelion_dos_polos.html")
+let d21 = new data("12 11 2359","R","a Rebelión dos polos","tamen coñecida coma a guerra civil eridanense","rebelion_dos_polos.html")
+let d22 = new data("8 10 2354","S","as eleccións en Meca","nas que sube ao poder o partido secesionista \"Patria Libre\"","rebelion_dos_polos.html")
 
-datas.push(d1);
-datas.push(d2);
-datas.push(d3);
-datas.push(d4);
-datas.push(d5);
-datas.push(d6);
-datas.push(d7);
-datas.push(d8);
-datas.push(d9);
-datas.push(d10);
-datas.push(d11);
-datas.push(d12);
-datas.push(d13);
-datas.push(d14);
-datas.push(d15);
-datas.push(d16);
-datas.push(d17);
-datas.push(d18);
-datas.push(d19);
+datas.push(d1, d2, d3, d4, d5, d6, d7, d8, d9, d10);
+datas.push(d11, d12, d13, d14, d15, d16, d17, d18, d19, d20);
+datas.push(d21, d22);
 
 let text = "<ul>";
 let separacionCalculo = fechaCalculo.split(" ");
