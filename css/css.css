@@ -27,7 +27,7 @@
 .barraNav ul ul li {
 	display: block;
 }
-.barraNav li:hover ul {
+.barraNav ul li:hover ul {
 	display: block;
 }
 .barraNav a:hover{
