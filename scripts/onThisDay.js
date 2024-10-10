@@ -92,10 +92,14 @@ let d19 = new data("17 1 2535","S","a disolución do Comisariado de Eridanus",""
 let d20 = new data("9 10 2354","C","a Rebelión dos polos","tamen coñecida coma a guerra civil eridanense","rebelion_dos_polos.html")
 let d21 = new data("12 11 2359","R","a Rebelión dos polos","tamen coñecida coma a guerra civil eridanense","rebelion_dos_polos.html")
 let d22 = new data("8 10 2354","S","as eleccións en Meca","nas que sube ao poder o partido secesionista \"Patria Libre\"","rebelion_dos_polos.html")
+let d23 = new data("10 10 2278","S","o primeiro aterrizaxe en Tesla","dunha nave de exploración","tesla.html")
+let d24 = new data("14 10 2285","S","o aterrizaxe da primeira nave colonia en Tesla","que daría lugar a actual cidade de Providenco","tesla.html")
+let d25 = new data("21 08 2289","S","o descubremento de cobre en Tesla","que daría lugar á febre do cobre","tesla.html")
+let d26 = new data("31 05 2311","S","o conformamento de Tesla","coma a Repúbrica Democrática e Federada de Tesla","tesla.html")
 
 datas.push(d1, d2, d3, d4, d5, d6, d7, d8, d9, d10);
 datas.push(d11, d12, d13, d14, d15, d16, d17, d18, d19, d20);
-datas.push(d21, d22);
+datas.push(d21, d22, d23, d24, d25, d26);
 
 let text = "<ul>";
 let separacionCalculo = fechaCalculo.split(" ");
@@ -104,7 +108,7 @@ for(i = 0; i < datas.length; i++){
     let separacion = datas[i].data.split(" ");
     if((separacion[0] == separacionCalculo[0]) && (separacion[1] == separacionCalculo[1])){
         console.log(datas[i].afectado);
-        procesar(datas[i]);
+        procesar(datas[i], separacion[2]);
     }
 }
 
@@ -112,7 +116,7 @@ text += "</ul>";
 
 document.getElementById("eventos").innerHTML = text;
 
-function procesar(fecha){
+function procesar(fecha, año){
 
     let date = new Date();
 
@@ -134,5 +138,5 @@ function procesar(fecha){
             break;
     }
     
-    text += "(Fai "+ ((date.getFullYear() + 600) - Number.parseInt(fecha.data.substring(5, 9))) +" años): " + "<a href=\"" + fecha.articulo + "\">" + fecha.afectado + "</a>, " + fecha.descripcion + ".</li>";
+    text += "(Fai "+ ((date.getFullYear() + 600) - año) +" anos): " + "<a href=\"" + fecha.articulo + "\">" + fecha.afectado + "</a>, " + fecha.descripcion + ".</li>";
 }
