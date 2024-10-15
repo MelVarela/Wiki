@@ -96,10 +96,11 @@ let d23 = new data("10 10 2278","S","o primeiro aterrizaxe en Tesla","dunha nave
 let d24 = new data("14 10 2285","S","o aterrizaxe da primeira nave colonia en Tesla","que daría lugar a actual cidade de Providenco","tesla.html")
 let d25 = new data("21 08 2289","S","o descubremento de cobre en Tesla","que daría lugar á febre do cobre","tesla.html")
 let d26 = new data("31 05 2311","S","o conformamento de Tesla","coma a Repúbrica Democrática e Federada de Tesla","tesla.html")
+let d27 = new data("20 10 2532","S","os atentados do 20 de outubro","os mais sangrentos da historia","atentados_20_outubro.html")
 
 datas.push(d1, d2, d3, d4, d5, d6, d7, d8, d9, d10);
 datas.push(d11, d12, d13, d14, d15, d16, d17, d18, d19, d20);
-datas.push(d21, d22, d23, d24, d25, d26);
+datas.push(d21, d22, d23, d24, d25, d26, d27);
 
 let text = "<ul>";
 let separacionCalculo = fechaCalculo.split(" ");
