@@ -262,3 +262,13 @@ h3{
 .falsoLink{
 	color: #FC493B;
 }
+
+/* Tablas sin bordes */
+
+.tablaInt{
+	border: none;
+}
+
+.tablaInt *{
+	border: none;
+}
