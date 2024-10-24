@@ -137,6 +137,8 @@ let d64 = new data("28 2 2502","S","a toma de poder de Carla Beck","a trixesimoc
 let d65 = new data("9 3 2522","S","a toma de poder de Norma Lucía Piña Hernández","a trixesimoquinta presidenta de Eridanus","listado_presidentes_eridanus.html");
 let d66 = new data("6 4 2532","S","a toma de poder de Miguel Cruz","o trixesimosexto presidente de Eridanus","listado_presidentes_eridanus.html");
 let d67 = new data("3 11 2533","S","a toma de poder de Khaleda Ahmed","a trixesimoseptima e actual presidenta de Eridanus","listado_presidentes_eridanus.html");
+let d68 = new data("21 4 2533","C","o xenocidio de Tesla","o mais sangrento da historia","xenocidio_de_tesla.html");
+let d69 = new data("8 5 2533","F","o xenocidio de Tesla","o mais sangrento da historia","xenocidio_de_tesla.html");
 
 datas.push(d1, d2, d3, d4, d5, d6, d7, d8, d9, d10);
 datas.push(d11, d12, d13, d14, d15, d16, d17, d18, d19, d20);
@@ -144,7 +146,7 @@ datas.push(d21, d22, d23, d24, d25, d26, d27, d28, d29, d30);
 datas.push(d31, d32, d33, d34, d35, d36, d37, d38, d39, d40);
 datas.push(d41, d42, d43, d44, d45, d46, d47, d48, d49, d50);
 datas.push(d51, d52, d53, d54, d55, d56, d57, d58, d59, d60);
-datas.push(d61, d62, d63, d64, d65, d66, d67);
+datas.push(d61, d62, d63, d64, d65, d66, d67, d68, d69);
 
 let text = "<ul>";
 let separacionCalculo = fechaCalculo.split(" ");
