@@ -272,3 +272,8 @@ h3{
 .tablaInt *{
 	border: none;
 }
+
+/* Menu de búsqueda */
+#menuBusqueda li{
+	padding: 3px;
+}
