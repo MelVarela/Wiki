@@ -93,7 +93,7 @@ function mostarResultados(){
     
         let engadir = "";
         for(let i = 0; i < mostrar.length; i++){
-            engadir += "<li>" + mostrar[i] + "<li>";
+            engadir += "<li> - " + mostrar[i] + "<li>";
         }
         document.getElementById("menuBusqueda").innerHTML = engadir;
     }else{
