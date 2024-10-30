@@ -18,7 +18,7 @@ let p7 = new paxina("beatriz_gomez","Betriz Gomez",["presidenta de españa"]);
 let p8 = new paxina("cassidy_ortiz_medina.html","Cássidy Ortiz Medina",["comisario xeral","emperador","xuiz supremo","deus","excelencia reverendisma","xefe do goberno","xefe de estado","cassidy ortiz medina"]);
 let p9 = new paxina("cecil_ortiz.html","Cécil Ortiz",["comisario de defensa","emperador","cecil ortiz"]);
 let p10 = new paxina("ceip_ruben_seixas.html","CEIP Ruben Seixas",[]);
-let p11 = new paxina("comisariado_de_eridanus","Comisariado de Eridanus",["eridanus"]);
+let p11 = new paxina("comisariado_de_eridanus.html","Comisariado de Eridanus",["eridanus"]);
 let p12 = new paxina("comisario_de_defensa.html","Comisariado de Defensa",["ministerio de defensa"]);
 let p13 = new paxina("comisario_xeral.html","Comisario Xeral",["cassidy ortiz medina","xefe do goberno","xefe de estado"]);
 let p14 = new paxina("conflictos_de_unificacion_planetaria.html","Conflictos de Unifiación Planetaria",["terceira guerra mundial","III GM","guerra de unificacion"]);
@@ -45,11 +45,12 @@ let p34 = new paxina("seikos.html","Seikos",["capital"]);
 let p35 = new paxina("tesla.html","Tesla",["planeta do cobre"]);
 let p36 = new paxina("tesla_desambiguacion.html","Tesla (Desambiguación)",[]);
 let p37 = new paxina("xenocidio_de_tesla.html","Xenocidio en Tesla",["bombardeo orbital de tesla", "bombardeo de tesla", "castigo de tesla", "operación Eco 74"]);
+let p38 = new paxina("masacre_do_parque_comisario_ortiz.html","Masacre do parque Comisario Ortiz",[]);
 
 paxinas.push(p1, p2, p3, p4, p5, p6, p7, p8, p9, p10);
 paxinas.push(p11, p12, p13, p14, p15, p16, p17, p18, p19, p20);
 paxinas.push(p21, p22, p23, p24, p25, p26, p27, p28, p29, p30);
-paxinas.push(p31, p32, p33, p34, p35, p36, p37);
+paxinas.push(p31, p32, p33, p34, p35, p36, p37, p38);
 
 function buscar(){
     let valor = document.getElementById("bb").value.toLowerCase();
