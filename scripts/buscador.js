@@ -46,11 +46,12 @@ let p35 = new paxina("tesla.html","Tesla",["planeta do cobre"]);
 let p36 = new paxina("tesla_desambiguacion.html","Tesla (Desambiguación)",[]);
 let p37 = new paxina("xenocidio_de_tesla.html","Xenocidio en Tesla",["bombardeo orbital de tesla", "bombardeo de tesla", "castigo de tesla", "operación Eco 74"]);
 let p38 = new paxina("masacre_do_parque_comisario_ortiz.html","Masacre do parque Comisario Ortiz",[]);
+let p39 = new paxina("portais.html","Portais","");
 
 paxinas.push(p1, p2, p3, p4, p5, p6, p7, p8, p9, p10);
 paxinas.push(p11, p12, p13, p14, p15, p16, p17, p18, p19, p20);
 paxinas.push(p21, p22, p23, p24, p25, p26, p27, p28, p29, p30);
-paxinas.push(p31, p32, p33, p34, p35, p36, p37, p38);
+paxinas.push(p31, p32, p33, p34, p35, p36, p37, p38, p39);
 
 function buscar(){
     let valor = document.getElementById("bb").value.toLowerCase();
