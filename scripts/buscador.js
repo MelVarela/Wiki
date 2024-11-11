@@ -31,7 +31,7 @@ let p20 = new paxina("golpe_de_estado_24A.html","Golpe de Estado do 24 de Abril"
 let p21 = new paxina("ies_emanuel_amado.html","IES Emanuel Amado",[]);
 let p22 = new paxina("igrexa_oficial.html","Igrexa Oficial",[]);
 let p23 = new paxina("imperio_de_eridanus.html","Imperio de Eridanus",["eridanus"]);
-let p24 = new paxina("index.html","Inicio",[]);
+let p24 = new paxina("../index.html","Inicio",["index"]);
 let p25 = new paxina("letizia_varela.html","Letizia Varela",[]);
 let p26 = new paxina("listado_presidentes_eridanus.html","Listado de Presidentes de Eridanus",[]);
 let p27 = new paxina("peirama.html","Peirama",[]);
@@ -54,6 +54,12 @@ paxinas.push(p21, p22, p23, p24, p25, p26, p27, p28, p29, p30);
 paxinas.push(p31, p32, p33, p34, p35, p36, p37, p38, p39);
 
 function buscar(){
+    let url = "";
+
+    if(window.location.href.includes("index")){
+        url += "paginas/";
+    }
+
     let valor = document.getElementById("bb").value.toLowerCase();
     let lonxitude = valor.length;
     let aviso = true;
@@ -62,7 +68,8 @@ function buscar(){
         for(let i = 0; i < paxinas.length; i++){
             let paxina = paxinas[i];
             if(paxina.nome.toLowerCase().includes(valor)){
-                window.open(paxinas[i].link, "_self");
+                url += paxinas[i].link;
+                window.open(url, "_self");
                 aviso = false;
             }
         }
