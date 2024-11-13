@@ -142,6 +142,9 @@ let d69 = new data("8 5 2533","F","o xenocidio de Tesla","o mais sangrento da hi
 let d70 = new data("14 2 2029","S","a creación de dereito e democracia","coma intento de Cássidy Ortiz de chegar á Moncloa","dereito_e_democracia.html");
 let d71 = new data("30 10 2498","S","a masacre do parque Comisario Ortiz","que da comezo á etapa de represión política en Tesla","masacre_do_parque_comisario_ortiz.html");
 let d72 = new data("7 11 2503","M","Maria Cantwell","trixesima presidenta de Eridanus","listado_presidentes_eridanus.html");
+let d73 = new data("20 10 2468","N","Aktívula Polítiko", "canciller de Tesla","aktivula_politiko.html");
+let d74 = new data("3 5 2533","M","Aktívula Polítiko", "canciller de Tesla","aktivula_politiko.html");
+let d75 = new data("13 11 2522","S","A toma de poder de Aktívula Polítiko","que se converte na primeria canciller independentista de Tesla","aktivula_politiko.html");
 
 datas.push(d1, d2, d3, d4, d5, d6, d7, d8, d9, d10);
 datas.push(d11, d12, d13, d14, d15, d16, d17, d18, d19, d20);
@@ -150,7 +153,7 @@ datas.push(d31, d32, d33, d34, d35, d36, d37, d38, d39, d40);
 datas.push(d41, d42, d43, d44, d45, d46, d47, d48, d49, d50);
 datas.push(d51, d52, d53, d54, d55, d56, d57, d58, d59, d60);
 datas.push(d61, d62, d63, d64, d65, d66, d67, d68, d69, d70);
-datas.push(d71, d72);
+datas.push(d71, d72, d73, d74, d75);
 
 let text = "<ul>";
 let separacionCalculo = fechaCalculo.split(" ");
@@ -189,5 +192,5 @@ function procesar(fecha, año){
             break;
     }
     
-    text += "(Fai "+ ((date.getFullYear() + 600) - año) +" anos): " + "<a href=\"" + fecha.articulo + "\">" + fecha.afectado + "</a>, " + fecha.descripcion + ".</li>";
+    text += "(Fai "+ ((date.getFullYear() + 600) - año) +" anos): " + "<a href=\"paginas/" + fecha.articulo + "\">" + fecha.afectado + "</a>, " + fecha.descripcion + ".</li>";
 }
