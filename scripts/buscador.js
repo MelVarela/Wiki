@@ -49,12 +49,13 @@ let p38 = new paxina("masacre_do_parque_comisario_ortiz.html","Masacre do parque
 let p39 = new paxina("portais.html","Portais","");
 let p40 = new paxina("aktivula_politiko.html","Aktívula Polítiko",["aktivula politiko", "canciller de tesla", "lider de enerxia libre"]);
 let p41 = new paxina("urbo.html","Urbo",["cidade de cobre e pizarra","xoia do ecuador"]);
+let p42 = new paxina("terra.html","Terra",["a terra", "praneta natal"]);
 
 paxinas.push(p1, p2, p3, p4, p5, p6, p7, p8, p9, p10);
 paxinas.push(p11, p12, p13, p14, p15, p16, p17, p18, p19, p20);
 paxinas.push(p21, p22, p23, p24, p25, p26, p27, p28, p29, p30);
 paxinas.push(p31, p32, p33, p34, p35, p36, p37, p38, p39, p40);
-paxinas.push(p41);
+paxinas.push(p41, p42);
 
 function buscar(){
     let url = "";
