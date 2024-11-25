@@ -145,6 +145,7 @@ let d72 = new data("7 11 2503","M","Maria Cantwell","trixesima presidenta de Eri
 let d73 = new data("20 10 2468","N","Aktívula Polítiko", "canciller de Tesla","aktivula_politiko.html");
 let d74 = new data("3 5 2533","M","Aktívula Polítiko", "canciller de Tesla","aktivula_politiko.html");
 let d75 = new data("13 11 2522","S","A toma de poder de Aktívula Polítiko","que se converte na primeria canciller independentista de Tesla","aktivula_politiko.html");
+let d76 = new data("12 6 2027","S","As eleccións municipais de Amarela","nas que gaña Cássidy Ortiz, dando comezo á sua vida política","eleccions_municipais_amarela_2027.html");
 
 datas.push(d1, d2, d3, d4, d5, d6, d7, d8, d9, d10);
 datas.push(d11, d12, d13, d14, d15, d16, d17, d18, d19, d20);
@@ -153,7 +154,7 @@ datas.push(d31, d32, d33, d34, d35, d36, d37, d38, d39, d40);
 datas.push(d41, d42, d43, d44, d45, d46, d47, d48, d49, d50);
 datas.push(d51, d52, d53, d54, d55, d56, d57, d58, d59, d60);
 datas.push(d61, d62, d63, d64, d65, d66, d67, d68, d69, d70);
-datas.push(d71, d72, d73, d74, d75);
+datas.push(d71, d72, d73, d74, d75, d76);
 
 let text = "<ul>";
 let separacionCalculo = fechaCalculo.split(" ");
