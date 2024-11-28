@@ -1,0 +1,44 @@
+body{
+    background-color: #F4F2EA;
+    font-family: 'Courier New', Courier, monospace;
+}
+hr{
+    margin-left: 0;
+    width: 33%;
+}
+
+header{
+    width: 33%;
+}
+header table{
+    width: 100%;
+}
+header table td{
+    width: 33%;
+}
+.ce{
+    text-align: center;
+}
+.de{
+    text-align: right;
+}
+.iz{
+    text-align: left;
+}
+
+#nombre{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    width: 33%;
+}
+
+#tablaP{
+    width: 33%;
+}
+
+#lado{
+    width: 25%;
+}
+#centro{
+    width: 50%;
+}
