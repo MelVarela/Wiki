@@ -10,39 +10,29 @@ class Mundo{
     }
 
     calcularDensidad(poblacion, superficie){
-        while(poblacion.includes("&nbsp")){
-            poblacion = poblacion.replace("&nbsp","");
-        }
-        while(superficie.includes("&nbsp")){
-            superficie = superficie.replace("&nbsp","");
-        }
+        while(poblacion.includes("&nbsp")) poblacion = poblacion.replace("&nbsp","");
+        while(superficie.includes("&nbsp")) superficie = superficie.replace("&nbsp","");
 
         return Math.floor(poblacion / superficie);
     }
 
     getSuperficie(){
         let superf = this.superficie;
-        while(superf.includes("&nbsp")){
-            superf = superf.replace("&nbsp","");
-        }
+        while(superf.includes("&nbsp")) superf = superf.replace("&nbsp","");
 
         return Number.parseInt(superf);
     }
 
     getPoblacion(){
         let pob = this.poblacion;
-        while(pob.includes("&nbsp")){
-            pob = pob.replace("&nbsp","");
-        }
+        while(pob.includes("&nbsp")) pob = pob.replace("&nbsp","");
 
         return Number.parseInt(pob);
     }
 
     getEconomia(){
         let eco = this.economia;
-        while(eco.includes("&nbsp")){
-            eco = eco.replace("&nbsp","");
-        }
+        while(eco.includes("&nbsp")) eco = eco.replace("&nbsp","");
         
         return Number.parseInt(eco.substring(0, (eco.length - 4)));
     }
@@ -143,27 +133,17 @@ function nombre(){
     let copia = []
 
     if(nombreB){
-        for(let i = 0; i < lista.length; i++){
-            copia[i] = lista[i];
-        }
+        for(let i = 0; i < lista.length; i++) copia[i] = lista[i];
         copia.sort((a, b) =>{
-            if(a.nombre < b.nombre){
-                return 1;
-            }else if(a.nombre > b.nombre){
-                return -1;
-            }
+            if(a.nombre < b.nombre) return 1;
+            else if(a.nombre > b.nombre) return -1;
             return 0;})
         cambiar("nombreB");
     }else{
-        for(let i = 0; i < lista.length; i++){
-            copia[i] = lista[i];
-        }
+        for(let i = 0; i < lista.length; i++) copia[i] = lista[i];
         copia.sort((a, b) =>{
-            if(a.nombre < b.nombre){
-                return -1;
-            }else if(a.nombre > b.nombre){
-                return 1;
-            }
+            if(a.nombre < b.nombre) return -1;
+            else if(a.nombre > b.nombre) return 1;
             return 0;})
         cambiar("nombreB");
     }
@@ -179,27 +159,17 @@ function superficie(){
     let copia = []
 
     if(superficieB){
-        for(let i = 0; i < lista.length; i++){
-            copia[i] = lista[i];
-        }
+        for(let i = 0; i < lista.length; i++) copia[i] = lista[i];
         copia.sort((a, b) =>{
-            if(a.getSuperficie() < b.getSuperficie()){
-                return -1;
-            }else if(a.getSuperficie() > b.getSuperficie()){
-                return 1;
-            }
+            if(a.getSuperficie() < b.getSuperficie()) return -1;
+            else if(a.getSuperficie() > b.getSuperficie()) return 1;
             return 0;})
         cambiar("superficieB");
     }else{
-        for(let i = 0; i < lista.length; i++){
-            copia[i] = lista[i];
-        }
+        for(let i = 0; i < lista.length; i++) copia[i] = lista[i];
         copia.sort((a, b) =>{
-            if(a.getSuperficie() < b.getSuperficie()){
-                return 1;
-            }else if(a.getSuperficie() > b.getSuperficie()){
-                return -1;
-            }
+            if(a.getSuperficie() < b.getSuperficie()) return 1;
+            else if(a.getSuperficie() > b.getSuperficie()) return -1;
             return 0;})
         cambiar("superficieB");
     }
@@ -211,27 +181,17 @@ function poblacion(){
     let copia = []
 
     if(poblacionB){
-        for(let i = 0; i < lista.length; i++){
-            copia[i] = lista[i];
-        }
+        for(let i = 0; i < lista.length; i++) copia[i] = lista[i];
         copia.sort((a, b) =>{
-            if(a.getPoblacion() < b.getPoblacion()){
-                return -1;
-            }else if(a.getPoblacion() > b.getPoblacion()){
-                return 1;
-            }
+            if(a.getPoblacion() < b.getPoblacion()) return -1;
+            else if(a.getPoblacion() > b.getPoblacion()) return 1;
             return 0;})
         cambiar("poblacionB");
     }else{
-        for(let i = 0; i < lista.length; i++){
-            copia[i] = lista[i];
-        }
+        for(let i = 0; i < lista.length; i++) copia[i] = lista[i];
         copia.sort((a, b) =>{
-            if(a.getPoblacion() < b.getPoblacion()){
-                return 1;
-            }else if(a.getPoblacion() > b.getPoblacion()){
-                return -1;
-            }
+            if(a.getPoblacion() < b.getPoblacion()) return 1;
+            else if(a.getPoblacion() > b.getPoblacion()) return -1;
             return 0;})
         cambiar("poblacionB");
     }
@@ -243,27 +203,17 @@ function densidad(){
     let copia = []
 
     if(densidadB){
-        for(let i = 0; i < lista.length; i++){
-            copia[i] = lista[i];
-        }
+        for(let i = 0; i < lista.length; i++) copia[i] = lista[i];
         copia.sort((a, b) =>{
-            if(a.densidad < b.densidad){
-                return -1;
-            }else if(a.densidad > b.densidad){
-                return 1;
-            }
+            if(a.densidad < b.densidad) return -1;
+            else if(a.densidad > b.densidad) return 1;
             return 0;})
         cambiar("densidadB");
     }else{
-        for(let i = 0; i < lista.length; i++){
-            copia[i] = lista[i];
-        }
+        for(let i = 0; i < lista.length; i++) copia[i] = lista[i];
         copia.sort((a, b) =>{
-            if(a.densidad < b.densidad){
-                return 1;
-            }else if(a.densidad > b.densidad){
-                return -1;
-            }
+            if(a.densidad < b.densidad) return 1;
+            else if(a.densidad > b.densidad) return -1;
             return 0;})
         cambiar("densidadB");
     }
@@ -275,27 +225,17 @@ function economia(){
     let copia = []
     
     if(economiaB){
-        for(let i = 0; i < lista.length; i++){
-            copia[i] = lista[i];
-        }
+        for(let i = 0; i < lista.length; i++) copia[i] = lista[i];
         copia.sort((a, b) =>{
-            if(a.getEconomia() < b.getEconomia()){
-                return -1;
-            }else if(a.getEconomia() > b.getEconomia()){
-                return 1;
-            }
+            if(a.getEconomia() < b.getEconomia()) return -1;
+            else if(a.getEconomia() > b.getEconomia()) return 1;
             return 0;})
         cambiar("economiaB");
     }else{
-        for(let i = 0; i < lista.length; i++){
-            copia[i] = lista[i];
-        }
+        for(let i = 0; i < lista.length; i++) copia[i] = lista[i];
         copia.sort((a, b) =>{
-            if(a.getEconomia() < b.getEconomia()){
-                return 1;
-            }else if(a.getEconomia() > b.getEconomia()){
-                return -1;
-            }
+            if(a.getEconomia() < b.getEconomia()) return 1;
+            else if(a.getEconomia() > b.getEconomia()) return -1;
             return 0;})
         cambiar("economiaB");
     }
@@ -385,12 +325,8 @@ document.addEventListener("DOMContentLoaded", ordenar(lista), false);
 let pobo = 0;
 let supe = 0;
 
-for(let i = 0; i < lista.length; i++){
-    pobo += lista[i].getPoblacion();
-}
-for(let i = 0; i < lista.length; i++){
-    supe += lista[i].getSuperficie();
-}
+for(let i = 0; i < lista.length; i++) pobo += lista[i].getPoblacion();
+for(let i = 0; i < lista.length; i++) supe += lista[i].getSuperficie();
 
 let dens = (Math.floor(pobo / supe) + " hab/Km2");
 
@@ -404,15 +340,9 @@ function formatear(texto){
     let devolver = reversa.toString();
     let numero = [];
 
-    while(devolver.includes(",")){
-        devolver = devolver.replace(",", "");
-    }
+    while(devolver.includes(",")) devolver = devolver.replace(",", "");
 
-    for(let i = 1; i < (devolver.length + 1); i++){
-        if(i % 3 == 0){
-            numero.push(devolver.substring(i - 3, i));
-        }
-    }
+    for(let i = 1; i < (devolver.length + 1); i++) if(i % 3 == 0) numero.push(devolver.substring(i - 3, i));
     if(devolver.length % 3 != 0){
         if(devolver.length % 3 == (1 / 3)){
             numero.push(devolver.substring(devolver.length - 2, devolver.length));
@@ -425,12 +355,8 @@ function formatear(texto){
 
     for(let i = 0; i < numero.length; i++){
         let volta = "";
-        if(numero[i][2] != undefined){
-            volta += numero[i][2];
-        }
-        if(numero[i][1] != undefined){
-            volta += numero[i][1];
-        }
+        if(numero[i][2] != undefined) volta += numero[i][2];
+        if(numero[i][1] != undefined) volta += numero[i][1];
         volta += numero[i][0];
         volta += "&nbsp";
 
@@ -441,9 +367,7 @@ function formatear(texto){
 
     devolver = numero.toString();
 
-    while(devolver.includes(",")){
-        devolver = devolver.replace(",","");
-    }
+    while(devolver.includes(",")) devolver = devolver.replace(",","");
 
     return devolver;
 

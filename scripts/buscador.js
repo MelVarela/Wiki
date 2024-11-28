@@ -63,9 +63,7 @@ paxinas.push(p41, p42, p43, p44, p45);
 function buscar(){
     let url = "";
 
-    if(window.location.href.includes("index")){
-        url += "paginas/";
-    }
+    if(window.location.href.includes("index")) url += "paginas/";
 
     let valor = document.getElementById("bb").value.toLowerCase();
     let lonxitude = valor.length;
@@ -80,13 +78,8 @@ function buscar(){
                 aviso = false;
             }
         }
-        if(aviso){
-            alert("Non se encontrou nada para isa búsqueda.");
-        }
-    }else{
-        alert("Non se introduciu ningún parámetro de búsqueda.");
-    }
-    
+        if(aviso) alert("Non se encontrou nada para isa búsqueda.");
+    }else alert("Non se introduciu ningún parámetro de búsqueda.");
 }
 
 function mostarResultados(){
@@ -97,31 +90,19 @@ function mostarResultados(){
     if(lonxitude > 0){
         for(let i = 0; i < paxinas.length; i++){
             let paxina = paxinas[i];
-            if(paxina.nome.toLowerCase().substring(0, lonxitude) == valor){
-                if(!(mostrar.includes(paxina.nome))) mostrar.push(paxina.nome);
-            }
-            for(let i = 0; i < paxina.etiquetas.length; i++){
-                if(paxina.etiquetas[i].substring(0, lonxitude) == valor){
-                    if(!(mostrar.includes(paxina.nome))) mostrar.push(paxina.nome);
-                }
-            }
+            if(paxina.nome.toLowerCase().substring(0, lonxitude) == valor) if(!(mostrar.includes(paxina.nome))) mostrar.push(paxina.nome);
+            for(let i = 0; i < paxina.etiquetas.length; i++) if(paxina.etiquetas[i].substring(0, lonxitude) == valor) if(!(mostrar.includes(paxina.nome))) mostrar.push(paxina.nome);
         }
     
         let engadir = "";
-        for(let i = 0; i < mostrar.length; i++){
-            engadir += "<li> - " + mostrar[i] + "<li>";
-        }
+        for(let i = 0; i < mostrar.length; i++) engadir += "<li> - " + mostrar[i] + "<li>";
         document.getElementById("menuBusqueda").innerHTML = engadir;
-    }else{
-        document.getElementById("menuBusqueda").innerHTML = "";
-    }
+    }else document.getElementById("menuBusqueda").innerHTML = "";
 }
 
 document.getElementById("bb").addEventListener("input", function(){mostarResultados()})
 document.getElementById("buscador").addEventListener("click", function(){buscar()});
 document.getElementById("bb").addEventListener("keyup", function(event) {
     event.preventDefault();
-    if (event.keyCode === 13) {
-        document.getElementById("buscador").click();
-    }
+    if (event.keyCode === 13) document.getElementById("buscador").click();
 });
