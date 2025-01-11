@@ -1,0 +1,528 @@
+[
+    {
+        "data":"24 9 1989",
+        "tipo":"N",
+        "afectado":"Beatriz Gómez",
+        "descripcion":"Presidenta de España",
+        "paxina":"beatriz_gomez.html"
+    },
+    {
+        "data":"3 3 2061",
+        "tipo":"M",
+        "afectado":"Beatriz Gómez",
+        "descripcion":"Presidenta de España",
+        "paxina":"beatriz_gomez.html"
+    },
+    {
+        "data":"20 4 2001",
+        "tipo":"N",
+        "afectado":"Cásssidy Ortiz Medina",
+        "descripcion":"Comisario Xeral",
+        "paxina":"cassidy_ortiz_medina.html"
+    }
+    ,
+    {
+        "data":"4 11 2533",
+        "tipo":"M",
+        "afectado":"Cásssidy Ortiz Medina",
+        "descripcion":"Comisario Xeral",
+        "paxina":"cassidy_ortiz_medina.html"
+    },
+    {
+        "data":"19 8 2040",
+        "tipo":"S",
+        "afectado":"o intento de bombardeo nuclear do Imperio de Eridanus",
+        "descripcion":"",
+        "paxina":"conflictos_de_unificacion_planetaria.html"
+    },
+    {
+        "data":"2 6 2044",
+        "tipo":"S",
+        "afectado":"a aprobación da constitución de eridanus",
+        "descripcion":"",
+        "paxina":"constitucion_de_eridanus.html"
+    },
+    {
+        "data":"16 9 2000",
+        "tipo":"N",
+        "afectado":"Cécil Ortiz",
+        "descripcion":"Comisario de defensa",
+        "paxina":"cecil_ortiz.html"
+    },
+    {
+        "data":"17 1 2535",
+        "tipo":"S",
+        "afectado":"a disolución do comisariado",
+        "descripcion":"por parte do Comisario Xeral Cécil Ortiz",
+        "paxina":"comisariado_de_eridanus.html"
+    },
+    {
+        "data":"6 6 2037",
+        "tipo":"S",
+        "afectado":"o comezo dos conflictos de unificación planetaria",
+        "descripcion":"",
+        "paxina":"conflictos_de_unificacion_planetaria.html"
+    },
+    {
+        "data":"28 1 2038",
+        "tipo":"S",
+        "afectado":"a invasión do Reino Unido por parte de eridanus",
+        "descripcion":"",
+        "paxina":"conflictos_de_unificacion_planetaria.html"
+    },
+    {
+        "data":"26 4 2038",
+        "tipo":"S",
+        "afectado":"a invasión eridanense de Alxeria e Marrocos",
+        "descripcion":"",
+        "paxina":"conflictos_de_unificacion_planetaria.html"
+    },
+    {
+        "data":"24 4 2034",
+        "tipo":"S",
+        "afectado":"o golpe de estado do 24-A",
+        "descripcion":"que da comezo ó Imperio de Eridanus",
+        "paxina":"golpe_de_estado_24A.html"
+    },
+    {
+        "data":"5 3 2031",
+        "tipo":"S",
+        "afectado":"a invasión chinesa da illa de taiwan",
+        "descripcion":"",
+        "paxina":""
+    },
+    {
+        "data":"19 9 2309",
+        "tipo":"S",
+        "afectado":"a aprobación da construcción da fortaleza de Peirama",
+        "descripcion":"",
+        "paxina":"peirama.html"
+    },
+    {
+        "data":"3 11 1987",
+        "tipo":"N",
+        "afectado":"Pepe Naya",
+        "descripcion":"Alcalde de Amarela",
+        "paxina":"pepe_naya.html"
+    },
+    {
+        "data":"12 1 2054",
+        "tipo":"M",
+        "afectado":"Pepe Naya",
+        "descripcion":"Alcalde de Amarela",
+        "paxina":"pepe_naya.html"
+    },
+    {
+        "data":"1 10 1989",
+        "tipo":"N",
+        "afectado":"Letizia Varela",
+        "descripcion":"Alcaldesa de Amarela",
+        "paxina":"letizia_varela.html"
+    },
+    {
+        "data":"4 10 2064",
+        "tipo":"M",
+        "afectado":"Letizia Varela",
+        "descripcion":"Alcaldesa de Amarela",
+        "paxina":"letizia_varela.html"
+    },
+    {
+        "data":"9 10 2354",
+        "tipo":"C",
+        "afectado":"a Rebelión dos polos",
+        "descripcion":"tamen coñecida coma a guerra civil eridanense",
+        "paxina":"rebelion_dos_polos.html"
+    },
+    {
+        "data":"12 11 2359",
+        "tipo":"R",
+        "afectado":"a Rebelión dos polos",
+        "descripcion":"tamen coñecida coma a guerra civil eridanense",
+        "paxina":"rebelion_dos_polos.html"
+    },
+    {
+        "data":"8 10 2354",
+        "tipo":"S",
+        "afectado":"as eleccións en Meca",
+        "descripcion":"nas que sube ao poder o partido secesionista \"Patria Libre\"",
+        "paxina":"rebelion_dos_polos.html"
+    },
+    {
+        "data":"10 10 2278",
+        "tipo":"S",
+        "afectado":"o primeiro aterrizaxe en Tesla",
+        "descripcion":"dunha nave de exploración",
+        "paxina":"tesla.html"
+    },
+    {
+        "data":"14 10 2285",
+        "tipo":"S",
+        "afectado":"o aterrizaxe da primeira nave colonia en Tesla",
+        "descripcion":"que daría lugar a actual cidade de Providenco",
+        "paxina":"tesla.html"
+    },
+    {
+        "data":"21 8 2289",
+        "tipo":"S",
+        "afectado":"o descubremento de cobre en Tesla",
+        "descripcion":"que daría lugar á febre do cobre",
+        "paxina":"tesla.html"
+    },
+    {
+        "data":"31 5 2311",
+        "tipo":"S",
+        "afectado":"o conformamento de Tesla",
+        "descripcion":"coma a Repúbrica Democrática e Federada de Tesla",
+        "paxina":"tesla.html"
+    },
+    {
+        "data":"20 10 2532",
+        "tipo":"S",
+        "afectado":"os atentados do 20 de outubro",
+        "descripcion":"os mais sangrentos da historia",
+        "paxina":"atentados_20_outubro.html"
+    },
+    {
+        "data":"24 8 2044",
+        "tipo":"S",
+        "afectado":"a toma de poder de Alexanria Ocasio-Cortez",
+        "descripcion":"a primeira presidenta de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"10 9 2054",
+        "tipo":"S",
+        "afectado":"a toma de poder de Valeria Racu",
+        "descripcion":"a segunda presidenta de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"2 1 2075",
+        "tipo":"S",
+        "afectado":"a toma de poder de Nicolas Azevedo Barbosa",
+        "descripcion":"o terceiro presidente de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"8 2 2085",
+        "tipo":"S",
+        "afectado":"a toma de poder de Kampol Homsut",
+        "descripcion":"o cuarto presidente de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"16 9 2107",
+        "tipo":"S",
+        "afectado":"a toma de poder de Yukiyo Kanou tras unha moción de censura a Kampol Homsut",
+        "descripcion":"a quinta e mais breve presidenta de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"19 9 2107",
+        "tipo":"S",
+        "afectado":"a toma de poder de Generosa Mana",
+        "descripcion":"a sexta presidenta de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"8 10 2117",
+        "tipo":"S",
+        "afectado":"a toma de poder de Charles Smyth",
+        "descripcion":"o septimo presidente de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"19 1 2128",
+        "tipo":"S",
+        "afectado":"a toma de poder de Generosa Mana",
+        "descripcion":"producindose a primeria vez que un presidente é reelecto tras perder unhas eleccións",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"19 1 2138",
+        "tipo":"S",
+        "afectado":"a toma de poder de Shahidat Eldarkhanov",
+        "descripcion":"o oitavo presidente de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"3 3 2148",
+        "tipo":"S",
+        "afectado":"a toma de poder de Leah Jager",
+        "descripcion":"a novena presidenta de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"6 8 2158",
+        "tipo":"S",
+        "afectado":"a toma de poder de Fung Ka Ling",
+        "descripcion":"a decima presidenta de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"25 7 2168",
+        "tipo":"S",
+        "afectado":"a toma de poder de Fahd Kazim Qureshi",
+        "descripcion":"o onceavo presidente de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"2 12 2188",
+        "tipo":"S",
+        "afectado":"a toma de poder de Taye Selassie",
+        "descripcion":"o doceavo presidente de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"1 1 2199",
+        "tipo":"S",
+        "afectado":"a toma de poder de Mark Hoof",
+        "descripcion":"o treceavo presidente de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"3 4 2219",
+        "tipo":"S",
+        "afectado":"a toma de poder de Bjarni Benediktsson",
+        "descripcion":"o decimocuarto presidente de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"4 8 2249",
+        "tipo":"S",
+        "afectado":"a toma de poder de Mark Keith Robinson",
+        "descripcion":"o decimoquinto presidente de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"18 12 2259",
+        "tipo":"S",
+        "afectado":"a toma de poder de Tina Kotek",
+        "descripcion":"a decimosexta presidenta de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"7 1 2270",
+        "tipo":"S",
+        "afectado":"a toma de poder de Lou Leon Guerrero",
+        "descripcion":"a decimoseptima presidenta de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"30 4 2290",
+        "tipo":"S",
+        "afectado":"a toma de poder de Arnold Palacios",
+        "descripcion":"o decimooitavo presidente de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"15 5 2293",
+        "tipo":"M",
+        "afectado":"Arnold Palacios",
+        "descripcion":"decimooitavo presidente de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"15 5 2293",
+        "tipo":"S",
+        "afectado":"a toma de poder de Albert Bryan",
+        "descripcion":"decimonoveno presidente de Eridanus, e primeria vez que un vicepresidente ascende ao cargo",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"2 5 2300",
+        "tipo":"S",
+        "afectado":"a toma de poder de Jogdeep Dhankhar",
+        "descripcion":"vixesimo e mais duradeiro presidente de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"17 7 2340",
+        "tipo":"S",
+        "afectado":"a toma de poder de Droupadi Murmu",
+        "descripcion":"a vixesimoprimeira presidenta de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"6 9 2350",
+        "tipo":"S",
+        "afectado":"a toma de poder de Emilio Perez Touriño",
+        "descripcion":"o vixesimosegundo presidente de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"21 12 2354",
+        "tipo":"S",
+        "afectado":"a toma de poder de Iris McKirdy",
+        "descripcion":"tralo cese de Emilio Perez Touriño, converténdose na vixesimoterceira presidenta de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"6 9 2360",
+        "tipo":"S",
+        "afectado":"a toma de poder de Lechosława Kalinowska",
+        "descripcion":"a vixesimocuarta presidenta de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"4 11 2380",
+        "tipo":"S",
+        "afectado":"a toma de poder de Xavier Pazos Ulloa",
+        "descripcion":"o vixesimoquinto presidente de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"9 11 2390",
+        "tipo":"S",
+        "afectado":"a toma de poder de Toma Kovačić",
+        "descripcion":"o vixesimosexto presidente de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"1 1 2401",
+        "tipo":"S",
+        "afectado":"a toma de poder de Lete Dahlak",
+        "descripcion":"a vixesimoseptima presidenta de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"8 4 2411",
+        "tipo":"S",
+        "afectado":"a toma de poder de Toma Kovačić",
+        "descripcion":"reelexido tras perder as anteriores eleccións",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"14 6 2421",
+        "tipo":"S",
+        "afectado":"a toma de poder de Laphonza Butler",
+        "descripcion":"a vixesimoitava presidenta de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"17 8 2431",
+        "tipo":"S",
+        "afectado":"a toma de poder de Mazie Hirono",
+        "descripcion":"a vixesimonovena presidenta de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"17 9 2451",
+        "tipo":"S",
+        "afectado":"a toma de poder de Maria Cantwell",
+        "descripcion":"a trixesima presidenta de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"17 10 2461",
+        "tipo":"S",
+        "afectado":"a toma de poder de Sheldon Whitehouse",
+        "descripcion":"o trixesimoprimeiro presidente de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"6 12 2481",
+        "tipo":"S",
+        "afectado":"a toma de poder de Keiichi Ishii",
+        "descripcion":"o trixesimosegundo presidente de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"21 1 2492",
+        "tipo":"S",
+        "afectado":"a toma de poder de Velenkosini Hlabisa",
+        "descripcion":"o trixesimoterceiro presidente de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"28 2 2502",
+        "tipo":"S",
+        "afectado":"a toma de poder de Carla Beck",
+        "descripcion":"a trixesimocuarta presidenta de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"9 3 2522",
+        "tipo":"S",
+        "afectado":"a toma de poder de Norma Lucía Piña Hernández",
+        "descripcion":"a trixesimoquinta presidenta de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"6 4 2532",
+        "tipo":"S",
+        "afectado":"a toma de poder de Miguel Cruz",
+        "descripcion":"o trixesimosexto presidente de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"4 11 2533",
+        "tipo":"S",
+        "afectado":"a toma de poder de Khaleda Ahmed",
+        "descripcion":"a trixesimoseptima e actual presidenta de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"21 4 2533",
+        "tipo":"C",
+        "afectado":"o xenocidio de Tesla",
+        "descripcion":"o mais sangrento da historia",
+        "paxina":"xenocidio_de_tesla.html"
+    },
+    {
+        "data":"8 5 2533",
+        "tipo":"F",
+        "afectado":"o xenocidio de Tesla",
+        "descripcion":"o mais sangrento da historia",
+        "paxina":"xenocidio_de_tesla.html"
+    },
+    {
+        "data":"14 2 2029",
+        "tipo":"S",
+        "afectado":"a creación de dereito e democracia",
+        "descripcion":"coma intento de Cássidy Ortiz de chegar á Moncloa",
+        "paxina":"dereito_e_democracia.html"
+    },
+    {
+        "data":"30 10 2498",
+        "tipo":"S",
+        "afectado":"a masacre do parque Comisario Ortiz",
+        "descripcion":"que da comezo á etapa de represión política en Tesla",
+        "paxina":"masacre_do_parque_comisario_ortiz.html"
+    },
+    {
+        "data":"7 11 2503",
+        "tipo":"M",
+        "afectado":"Maria Cantwell",
+        "descripcion":"trixesima presidenta de Eridanus",
+        "paxina":"listado_presidentes_eridanus.html"
+    },
+    {
+        "data":"20 10 2468",
+        "tipo":"N",
+        "afectado":"Aktívula Polítiko",
+        "descripcion":"canciller de Tesla",
+        "paxina":"aktivula_politiko.html"
+    },
+    {
+        "data":"3 5 2533",
+        "tipo":"M",
+        "afectado":"Aktívula Polítiko",
+        "descripcion":"canciller de Tesla",
+        "paxina":"aktivula_politiko.html"
+    },
+    {
+        "data":"13 11 2522",
+        "tipo":"S",
+        "afectado":"a toma de poder de Aktívula Polítiko",
+        "descripcion":"que se converte na primeria canciller independentista de Tesla",
+        "paxina":"aktivula_politiko.html"
+    },
+    {
+        "data":"12 6 2027",
+        "tipo":"S",
+        "afectado":"as eleccións municipais de Amarela",
+        "descripcion":"nas que gaña Cássidy Ortiz, dando comezo á sua vida política",
+        "paxina":"eleccions_municipais_amarela_2027.html"
+    }
+]
