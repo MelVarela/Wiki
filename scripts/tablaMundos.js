@@ -49,7 +49,7 @@ let proxima = new Mundo("Próxima", "https://images-wixmp-ed30a86b8c4ca887773594
 let sirio = new Mundo("Sirio", "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5874e9cb-728c-4516-810c-e6efb1b72caa/dfworu3-c61a5c7c-ed6e-4ceb-b16f-1e9853ba81c5.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU4NzRlOWNiLTcyOGMtNDUxNi04MTBjLWU2ZWZiMWI3MmNhYVwvZGZ3b3J1My1jNjFhNWM3Yy1lZDZlLTRjZWItYjE2Zi0xZTk4NTNiYTgxYzUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.i2s-rx4spTxH3SjsHHDE_KLYbGbnhlrSgmTxUg4agMM", "48&nbsp837&nbsp000", "34&nbsp051&nbsp608&nbsp006", "26&nbsp452&nbsp340,462", " class=\"falsoLink\"");
 let nova = new Mundo("Nova", "https://i.pinimg.com/originals/c1/64/24/c164249abe3681cb2b5bb34cc99cd6ab.jpg", "496&nbsp237&nbsp000", "56&nbsp834&nbsp746&nbsp382", "19&nbsp883&nbsp843,457", " class=\"falsoLink\"");
 let marte = new Mundo("Marte","https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_the_Martian_Congressional_Republic.svg/220px-Flag_of_the_Martian_Congressional_Republic.svg.png", "48&nbsp160&nbsp000", "3&nbsp234&nbsp389&nbsp194", "798&nbsp452,837","marte.html")
-let fido = new Mundo("Fido", "https://static.wikia.nocookie.net/overlordfanonn/images/7/7c/Slane_Theocracy_Flag.png/revision/latest?cb=20211003214418", "264&nbsp879&nbsp000", "28&nbsp649&nbsp215&nbsp684", "14&nbsp837&nbsp452,340", " class=\"falsoLink\"");
+let fido = new Mundo("Fido", "https://static.wikia.nocookie.net/overlordmaruyama/images/7/7c/Slane_Theocracy_Flag.png", "264&nbsp879&nbsp000", "28&nbsp649&nbsp215&nbsp684", "14&nbsp837&nbsp452,340", " class=\"falsoLink\"");
 let gueterra = new Mundo("Gueterra", "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56bef39e-880d-4f58-93bc-1dab0c7ed7b9/di3x55u-2d22deb8-ea4c-4083-92ab-4b041f6950a7.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2YmVmMzllLTg4MGQtNGY1OC05M2JjLTFkYWIwYzdlZDdiOVwvZGkzeDU1dS0yZDIyZGViOC1lYTRjLTQwODMtOTJhYi00YjA0MWY2OTUwYTcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0v5QkL3G34aWjsZ-WokuUxThyQ-sEzOdABNsniZYcm4", "230&nbsp506&nbsp000", "29&nbsp648&nbsp200&nbsp364", "8&nbsp871&nbsp324,024", " class=\"falsoLink\"");
 let vagalum = new Mundo("Vagalum", "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Anarcho-capitalism.svg/2560px-Flag_of_Anarcho-capitalism.svg.png", "129&nbsp805&nbsp700", "12&nbsp649&nbsp034&nbsp812", "21&nbsp234&nbsp004,041", " class=\"falsoLink\"");
 let triante = new Mundo("Triante", "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bda2ab2a-f5a6-4b9a-bee5-165bacd0fc12/dby0xpy-36320b5b-a7de-499b-80b8-4230c27226cb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JkYTJhYjJhLWY1YTYtNGI5YS1iZWU1LTE2NWJhY2QwZmMxMlwvZGJ5MHhweS0zNjMyMGI1Yi1hN2RlLTQ5OWItODBiOC00MjMwYzI3MjI2Y2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MWUAYfiosehMB8BW9V60FDMHrgia6OIr4bSKa5-gvfs", "12&nbsp709&nbsp845", "1&nbsp002&nbsp348&nbsp604", "6&nbsp234&nbsp435,468", " class=\"falsoLink\"");
@@ -344,11 +344,8 @@ function formatear(texto){
 
     for(let i = 1; i < (devolver.length + 1); i++) if(i % 3 == 0) numero.push(devolver.substring(i - 3, i));
     if(devolver.length % 3 != 0){
-        if(devolver.length % 3 == (1 / 3)){
-            numero.push(devolver.substring(devolver.length - 2, devolver.length));
-        }else{
-            numero.push(devolver.substring(devolver.length - 1, devolver.length))
-        }
+        if(devolver.length % 3 == (1 / 3)) numero.push(devolver.substring(devolver.length - 2, devolver.length));
+        else numero.push(devolver.substring(devolver.length - 1, devolver.length))
     }
 
     numero.reverse();

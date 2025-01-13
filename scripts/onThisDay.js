@@ -30,8 +30,8 @@ let datas = [];
 let text = "<ul>";
 let separacionCalculo = fechaCalculo.split(" ");
 
-let xhr = new XMLHttpRequest();
-xhr.onreadystatechange = function(){
+let xhrDATAS = new XMLHttpRequest();
+xhrDATAS.onreadystatechange = function(){
     if(this.readyState == 4 && this.status == 200) datas = JSON.parse(this.responseText);
 
     for(i = 0; i < datas.length; i++){
@@ -41,8 +41,8 @@ xhr.onreadystatechange = function(){
     
     document.getElementById("eventos").innerHTML = (text + "</ul>");
 }
-xhr.open("GET", "./scripts/datas.json", true);
-xhr.send();
+xhrDATAS.open("GET", "./scripts/datas.json", true);
+xhrDATAS.send();
 
 function procesar(fecha, año){
 
