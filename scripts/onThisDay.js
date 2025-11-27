@@ -64,7 +64,10 @@ function procesar(fecha, año){
         case "S":
             text += "<li>Ten lugar "
             break;
+        case "Cr":
+            text += "<li>Crease ";
+            break;
     }
     
-    text += "(Fai "+ ((date.getFullYear() + 600) - año) +" anos): " + "<a href=\"paginas/" + fecha.articulo + "\">" + fecha.afectado + "</a>, " + fecha.descripcion + ".</li>";
+    text += "(Fai "+ ((date.getFullYear() + 600) - año) +" anos): " + "<a href=\"paginas/" + fecha.paxina + "\">" + fecha.afectado + "</a>, " + fecha.descripcion + ".</li>";
 }
