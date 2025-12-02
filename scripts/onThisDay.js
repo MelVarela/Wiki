@@ -19,6 +19,7 @@ class Data{
             C: Comeza
             F: Finaliza
             S: Sucede
+            Cr: Crease
         */
         this.afectado = afectado;
         this.descripcion = descripcion;

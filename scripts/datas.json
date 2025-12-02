@@ -531,5 +531,26 @@
         "afectado":"as eleccións municipais de Amarela",
         "descripcion":"nas que gaña Cássidy Ortiz, dando comezo á sua vida política",
         "paxina":"eleccions_municipais_amarela_2027.html"
+    },
+    {
+        "data":"4 12 2298",
+        "tipo":"N",
+        "afectado":"Lechosława Kalinowska",
+        "descripcion":"a vixesimocuarta presidenta de Eridanus",
+        "paxina":"lechoslawa_kalinowska.html"
+    },
+    {
+        "data":"29 8 2398",
+        "tipo":"F",
+        "afectado":"Lechosława Kalinowska",
+        "descripcion":"a vixesimocuarta presidenta de Eridanus",
+        "paxina":"lechoslawa_kalinowska.html"
+    },
+    {
+        "data":"2 12 2337",
+        "tipo":"S",
+        "afectado":"A toma de poder de Lechosława Kalinowska",
+        "descripcion":"coma canciller de Lañas",
+        "paxina":"lechoslawa_kalinowska.html"
     }
 ]
