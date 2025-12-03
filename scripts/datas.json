@@ -552,5 +552,26 @@
         "afectado":"A toma de poder de Lechosława Kalinowska",
         "descripcion":"coma canciller de Lañas",
         "paxina":"lechoslawa_kalinowska.html"
+    },
+    {
+        "data":"12 12 2091",
+        "tipo":"N",
+        "afectado":"Leah Jaguer",
+        "descripcion":"a decimocuarta presidenta de Eridanus",
+        "paxina":"leah_jaguer.html"
+    },
+    {
+        "data":"2 8 2183",
+        "tipo":"F",
+        "afectado":"Leah Jaguer",
+        "descripcion":"a decimocuarta presidenta de Eridanus",
+        "paxina":"leah_jaguer.html"
+    },
+    {
+        "data":"9 6 2073",
+        "tipo":"S",
+        "afectado":"o primeiro aterrizaxe en Próxima",
+        "descripcion":"dunha nave de exploración, marcando o comezo a primeira colonización espacial",
+        "paxina":"proxima.html"
     }
 ]

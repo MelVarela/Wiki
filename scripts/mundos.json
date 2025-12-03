@@ -16,12 +16,12 @@
         "enlace":"proxima.html"
     },
     {
-        "nombre":"Sirio",
-        "bandera":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5874e9cb-728c-4516-810c-e6efb1b72caa/dfworu3-c61a5c7c-ed6e-4ceb-b16f-1e9853ba81c5.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU4NzRlOWNiLTcyOGMtNDUxNi04MTBjLWU2ZWZiMWI3MmNhYVwvZGZ3b3J1My1jNjFhNWM3Yy1lZDZlLTRjZWItYjE2Zi0xZTk4NTNiYTgxYzUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.i2s-rx4spTxH3SjsHHDE_KLYbGbnhlrSgmTxUg4agMM",
-        "superficie":"48&nbsp837&nbsp000",
-        "poblacion":"34&nbsp051&nbsp608&nbsp006",
-        "economia":"26&nbsp452&nbsp340,462",
-        "enlace":"sirio.html"
+        "nombre":"Nova",
+        "bandera":"https://i.pinimg.com/originals/c1/64/24/c164249abe3681cb2b5bb34cc99cd6ab.jpg",
+        "superficie":"496&nbsp237&nbsp000",
+        "poblacion":"56&nbsp834&nbsp746&nbsp382",
+        "economia":"19&nbsp883&nbsp843,457",
+        "enlace":"nova.html"
     },
     {
         "nombre":"Marte",
@@ -32,12 +32,12 @@
         "enlace":"marte.html"
     },
     {
-        "nombre":"Nova",
-        "bandera":"https://i.pinimg.com/originals/c1/64/24/c164249abe3681cb2b5bb34cc99cd6ab.jpg",
-        "superficie":"496&nbsp237&nbsp000",
-        "poblacion":"56&nbsp834&nbsp746&nbsp382",
-        "economia":"19&nbsp883&nbsp843,457",
-        "enlace":"nova.html"
+        "nombre":"Sirio",
+        "bandera":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5874e9cb-728c-4516-810c-e6efb1b72caa/dfworu3-c61a5c7c-ed6e-4ceb-b16f-1e9853ba81c5.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU4NzRlOWNiLTcyOGMtNDUxNi04MTBjLWU2ZWZiMWI3MmNhYVwvZGZ3b3J1My1jNjFhNWM3Yy1lZDZlLTRjZWItYjE2Zi0xZTk4NTNiYTgxYzUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.i2s-rx4spTxH3SjsHHDE_KLYbGbnhlrSgmTxUg4agMM",
+        "superficie":"48&nbsp837&nbsp000",
+        "poblacion":"34&nbsp051&nbsp608&nbsp006",
+        "economia":"26&nbsp452&nbsp340,462",
+        "enlace":"sirio.html"
     },
     {
         "nombre":"Fido",
