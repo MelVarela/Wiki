@@ -218,5 +218,40 @@
         "link":"texto_constitucion_de_eridanus.html",
         "nome":"Anexo: Constitución de Eridanus",
         "etiquetas":[]
+    },
+    {
+        "link":"proxima.html",
+        "nome":"Próxima",
+        "etiquetas":["proxima"]
+    },
+    {
+        "link":"nova.html",
+        "nome":"Nova",
+        "etiquetas":[]
+    },
+    {
+        "link":"sirio.html",
+        "nome":"Sirio",
+        "etiquetas":["sirius"]
+    },
+    {
+        "link":"fido.html",
+        "nome":"Fido",
+        "etiquetas":[]
+    },
+    {
+        "link":"leah_jager.html",
+        "nome":"Leah Jager",
+        "etiquetas":[]
+    },
+    {
+        "link":"lechoslawa_kalinowska.html",
+        "nome":"Lechosława Kalinowska",
+        "etiquetas":["lechoslawa", "kalinowska"]
+    },
+    {
+        "link":"diana_monterrey_etxebarria.html",
+        "nome":"Diana Monterrey Etxebarría",
+        "etiquetas":["diana", "etxebarria", "facenda", "comisaria de facenda"]
     }
 ]
