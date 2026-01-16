@@ -253,5 +253,10 @@
         "link":"diana_monterrey_etxebarria.html",
         "nome":"Diana Monterrey Etxebarría",
         "etiquetas":["diana", "etxebarria", "facenda", "comisaria de facenda"]
+    },
+    {
+        "link":"desaparicion_carla_aunenmayer.html",
+        "nome":"Desaparición forzosa de Carla Aunenmayer",
+        "etiquetas":[]
     }
 ]

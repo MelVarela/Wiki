@@ -594,5 +594,12 @@
         "afectado":"Diana Monterrey",
         "descripcion":"comisaria de facenda",
         "paxina":"diana_monterrey_etxebarria.html"
+    },
+    {
+        "data":"16 1 2513",
+        "tipo":"S",
+        "afectado":"A desparición de Carla Aunenmayer",
+        "descripcion":"un dos maiores escándalos da represión de Tesla",
+        "paxina":"desaparicion_carla_aunenmayer.html"
     }
 ]
