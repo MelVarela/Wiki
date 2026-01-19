@@ -263,6 +263,29 @@ h3{
 	border: thin, solid, black;
 }
 
+/* Tabla de listadoSM */
+.listadoSM{
+	border-collapse: collapse;
+	padding: 0px;
+}
+
+.listadoSM #cabeza td{
+	background-color: #EAECF0;
+	padding: 25px;
+	font-weight: bold;
+	text-align: center;
+	border: thin, solid, black;
+}
+
+.listadoSM #contenido td{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #F8F9FA;
+	border: thin, solid, black;
+}
+
 /* Link falso */
 .falsoLink{
 	color: #FC493B;
