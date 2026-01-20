@@ -263,5 +263,15 @@
         "link":"canciller_fido.html",
         "nome":"Canciller de Fido",
         "etiquetas":[]
+    },
+    {
+        "link":"neria.html",
+        "nome":"Neria",
+        "etiquetas":[]
+    },
+    {
+        "link":"canciller_neria.html",
+        "nome":"Canciller de Neria",
+        "etiquetas":["rei de neria","reina de neria","monarca de neria"]
     }
 ]
