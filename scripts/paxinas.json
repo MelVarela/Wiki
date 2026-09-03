@@ -30,7 +30,7 @@
         "etiquetas":["barrio central", "amarela", "casco histórico", "casco historico"]
     },
     {
-        "link":"beatriz_gomez",
+        "link":"beatriz_gomez.html",
         "nome":"Beatriz Gomez",
         "etiquetas":["presidenta de españa", "bea gomez"]
     },
@@ -53,6 +53,11 @@
         "link":"comisariado_de_eridanus.html",
         "nome":"Comisariado de Eridanus",
         "etiquetas":["eridanus"]
+    },
+    {
+        "link":"comisariado_de_defensa.html",
+        "nome":"Comisariado de Defensa",
+        "etiquetas":["ministerio de defensa"]
     },
     {
         "link":"comisario_de_defensa.html",
@@ -257,7 +262,7 @@
     {
         "link":"desaparicion_carla_aunenmayer.html",
         "nome":"Desaparición forzosa de Carla Aunenmayer",
-        "etiquetas":[]
+        "etiquetas":["carla aunenmayer"]
     },
     {
         "link":"canciller_fido.html",
@@ -273,5 +278,10 @@
         "link":"canciller_neria.html",
         "nome":"Canciller de Neria",
         "etiquetas":["rei de neria","reina de neria","monarca de neria"]
+    },
+    {
+        "link":"union_socialistas_eridanenses.html",
+        "nome":"Unión de Socialistas Eridanenses",
+        "etiquetas":["use","union de socialistas eridanenses"]
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "nombre":"Terra",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/International_Flag_of_Planet_Earth.svg/200px-International_Flag_of_Planet_Earth.svg.png",
+        "bandera":"../imgs/banderia_de_terra.webp",
         "superficie":"510&nbsp072&nbsp000",
         "poblacion":"73&nbsp854&nbsp623&nbsp327",
         "economia":"37&nbsp554&nbsp532,236",
@@ -25,7 +25,7 @@
     },
     {
         "nombre":"Marte",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_the_Martian_Congressional_Republic.svg/220px-Flag_of_the_Martian_Congressional_Republic.svg.png",
+        "bandera":"../imgs/bandeira_de_marte.webp",
         "superficie":"48&nbsp160&nbsp000",
         "poblacion":"3&nbsp234&nbsp389&nbsp194",
         "economia":"798&nbsp452,837",
@@ -57,7 +57,7 @@
     },
     {
         "nombre":"Vagalum",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Anarcho-capitalism.svg/2560px-Flag_of_Anarcho-capitalism.svg.png",
+        "bandera":"../imgs/bandeira_de_vagalum.webp",
         "superficie":"129&nbsp805&nbsp700",
         "poblacion":"12&nbsp649&nbsp034&nbsp812",
         "economia":"21&nbsp234&nbsp004,041",
@@ -105,7 +105,7 @@
     },
     {
         "nombre":"Meca",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bandera_de_Santiago_de_Compostela.svg/2560px-Bandera_de_Santiago_de_Compostela.svg.png",
+        "bandera":"../imgs/Bandera_de_Meca.svg.webp",
         "superficie":"75&nbsp134&nbsp000",
         "poblacion":"24&nbsp154&nbsp219&nbsp984",
         "economia":"14&nbsp898&nbsp249,517",
@@ -153,7 +153,7 @@
     },
     {
         "nombre":"Moissa",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_the_Future_Movement.svg/1200px-Flag_of_the_Future_Movement.svg.png",
+        "bandera":"../imgs/bandeira_de_moissa.webp",
         "superficie":"170&nbsp874&nbsp000",
         "poblacion":"4&nbsp519&nbsp324&nbsp810",
         "economia":"9&nbsp983&nbsp324,824",
@@ -177,7 +177,7 @@
     },
     {
         "nombre":"Pildas",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bandeiradourbanismo.png/1200px-Bandeiradourbanismo.png",
+        "bandera":"../imgs/bandeira_de_pildas.png",
         "superficie":"87&nbsp080&nbsp000",
         "poblacion":"9&nbsp948&nbsp315&nbsp604",
         "economia":"12&nbsp736&nbsp003,000",
@@ -185,7 +185,7 @@
     },
     {
         "nombre":"Teocla",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Flag_of_Rome.svg/2560px-Flag_of_Rome.svg.png",
+        "bandera":"../imgs/Bandeira_de_teocla.webp",
         "superficie":"398&nbsp802&nbsp000",
         "poblacion":"21&nbsp623&nbsp548&nbsp964",
         "economia":"21&nbsp324&nbsp543,286",
@@ -225,7 +225,7 @@
     },
     {
         "nombre":"Novafabriko",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Flag_of_the_Byelorussian_Soviet_Socialist_Republic_%281951%E2%80%931991%29.svg/800px-Flag_of_the_Byelorussian_Soviet_Socialist_Republic_%281951%E2%80%931991%29.svg.png",
+        "bandera":"../imgs/bandeira_de_novafabriko.svg",
         "superficie":"141&nbsp984&nbsp000",
         "poblacion":"16&nbsp248&nbsp912&nbsp320",
         "economia":"5&nbsp548&nbsp024,801",
@@ -233,7 +233,7 @@
     },
     {
         "nombre":"Novahaveno",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_Latvian_Soviet_Socialist_Republic_%281953%E2%80%931990%29.svg/1200px-Flag_of_the_Latvian_Soviet_Socialist_Republic_%281953%E2%80%931990%29.svg.png",
+        "bandera":"../imgs/bandeira_de_novahaveno.svg",
         "superficie":"219&nbsp082&nbsp123",
         "poblacion":"7&nbsp214&nbsp658&nbsp901",
         "economia":"21&nbsp618&nbsp984,935",
@@ -241,7 +241,7 @@
     },
     {
         "nombre":"Novaurbo",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_the_Kazakh_Soviet_Socialist_Republic_%281953%E2%80%931991%29%3B_Flag_of_Kazakhstan_%281991%E2%80%931992%29.svg/800px-Flag_of_the_Kazakh_Soviet_Socialist_Republic_%281953%E2%80%931991%29%3B_Flag_of_Kazakhstan_%281991%E2%80%931992%29.svg.png",
+        "bandera":"../imgs/bandeira_de_novaurbo.webp",
         "superficie":"198&nbsp876&nbsp000",
         "poblacion":"26&nbsp351&nbsp053&nbsp064",
         "economia":"19&nbsp651&nbsp014,836",
@@ -265,7 +265,7 @@
     },
     {
         "nombre":"Kraupe",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_Tula_Oblast.svg/2560px-Flag_of_Tula_Oblast.svg.png",
+        "bandera":"../imgs/Bandeira_de_kraupe.svg",
         "superficie":"32&nbsp874&nbsp000",
         "poblacion":"1&nbsp984&nbsp006&nbsp024",
         "economia":"751&nbsp138,271",
@@ -273,7 +273,7 @@
     },
     {
         "nombre":"Erimistu",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Moscow_oblast.svg/2560px-Flag_of_Moscow_oblast.svg.png",
+        "bandera":"../imgs/Bandeira_de_erimistu.svg",
         "superficie":"402&nbsp862&nbsp120",
         "poblacion":"29&nbsp645&nbsp000&nbsp218",
         "economia":"17&nbsp546&nbsp214,100",
@@ -281,7 +281,7 @@
     },
     {
         "nombre":"Ewing",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Flag_of_M%C3%A1laga%2C_Spain.svg/2560px-Flag_of_M%C3%A1laga%2C_Spain.svg.png",
+        "bandera":"../imgs/Bandeira_de_ewing.webp",
         "superficie":"32&nbsp983&nbsp000",
         "poblacion":"1&nbsp061&nbsp512&nbsp354",
         "economia":"241&nbsp512,585",
@@ -289,7 +289,7 @@
     },
     {
         "nombre":"Ebbes",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/1200px-Flag_of_Kuwait.svg.png",
+        "bandera":"../imgs/Bandeira_de_ebbes.webp",
         "superficie":"42&nbsp982&nbsp000",
         "poblacion":"3&nbsp542&nbsp216&nbsp032",
         "economia":"18&nbsp511,534",
@@ -297,7 +297,7 @@
     },
     {
         "nombre":"Glandail",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Osaka_Prefecture.svg/1200px-Flag_of_Osaka_Prefecture.svg.png",
+        "bandera":"../imgs/Bandeira_de_glandail.svg",
         "superficie":"251&nbsp060&nbsp000",
         "poblacion":"10&nbsp215&nbsp620&nbsp031",
         "economia":"5&nbsp517&nbsp985,300",
@@ -313,7 +313,7 @@
     },
     {
         "nombre":"Nong",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Kyoto_Prefecture.svg/2560px-Flag_of_Kyoto_Prefecture.svg.png",
+        "bandera":"../imgs/Bandeira_de_nong.webp",
         "superficie":"312&nbsp924&nbsp000",
         "poblacion":"9&nbsp516&nbsp325&nbsp004",
         "economia":"452&nbsp326,588",
@@ -321,7 +321,7 @@
     },
     {
         "nombre":"Legi",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Hiroshima_Prefecture.svg/1200px-Flag_of_Hiroshima_Prefecture.svg.png",
+        "bandera":"../imgs/Bandeira_de_legi.webp",
         "superficie":"214&nbsp904&nbsp000",
         "poblacion":"842&nbsp481&nbsp215",
         "economia":"19&nbsp517,360",
@@ -337,7 +337,7 @@
     },
     {
         "nombre":"Tívol",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Nagasaki%2C_Nagasaki.svg/1200px-Flag_of_Nagasaki%2C_Nagasaki.svg.png",
+        "bandera":"../imgs/bandeira_de_tivol.webp",
         "superficie":"46&nbsp837&nbsp000",
         "poblacion":"751&nbsp516&nbsp032",
         "economia":"948&nbsp513,623",
@@ -345,7 +345,7 @@
     },
     {
         "nombre":"Hutu",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_Hokkaido_Prefecture.svg/1280px-Flag_of_Hokkaido_Prefecture.svg.png",
+        "bandera":"../imgs/Bandeira_de_hutu.webp",
         "superficie":"129&nbsp034&nbsp000",
         "poblacion":"6&nbsp254&nbsp034&nbsp805",
         "economia":"2&nbsp516&nbsp211,276",
@@ -353,7 +353,7 @@
     },
     {
         "nombre":"Líbster",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Aomori_Prefecture.svg/800px-Flag_of_Aomori_Prefecture.svg.png",
+        "bandera":"../imgs/Bandeira_de_libster.webp",
         "superficie":"286&nbsp082&nbsp000",
         "poblacion":"24&nbsp260&nbsp516&nbsp984",
         "economia":"16&nbsp514&nbsp320,669",
@@ -361,7 +361,7 @@
     },
     {
         "nombre":"Hersina",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Iwate_Prefecture.svg/1200px-Flag_of_Iwate_Prefecture.svg.png",
+        "bandera":"../imgs/Bandeira_de_hersina.webp",
         "superficie":"424&nbsp873&nbsp920",
         "poblacion":"17&nbsp249&nbsp015&nbsp320",
         "economia":"10&nbsp215&nbsp050,228",
@@ -369,7 +369,7 @@
     },
     {
         "nombre":"Dóndolo",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Miyagi_Prefecture.svg/2560px-Flag_of_Miyagi_Prefecture.svg.png",
+        "bandera":"../imgs/Bandeira_de_dondolo.svg",
         "superficie":"201&nbsp004&nbsp000",
         "poblacion":"3&nbsp215&nbsp648&nbsp214",
         "economia":"2&nbsp301&nbsp237,516",
@@ -377,7 +377,7 @@
     },
     {
         "nombre":"Grabosno",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Akita_Prefecture.svg/1200px-Flag_of_Akita_Prefecture.svg.png",
+        "bandera":"../imgs/Bandeira_de_grabosno.webp",
         "superficie":"198&nbsp803&nbsp000",
         "poblacion":"4&nbsp516&nbsp328&nbsp000",
         "economia":"4&nbsp513&nbsp548,133",
@@ -385,7 +385,7 @@
     },
     {
         "nombre":"Dórverden",
-        "bandera":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_Yamagata_Prefecture.svg/1200px-Flag_of_Yamagata_Prefecture.svg.png",
+        "bandera":"../imgs/Bandeira_de_dorverden.webp",
         "superficie":"67&nbsp928&nbsp000",
         "poblacion":"345&nbsp620&nbsp513",
         "economia":"948,289",
