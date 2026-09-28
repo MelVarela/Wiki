@@ -608,5 +608,19 @@
         "afectado":"A desparición de Carla Aunenmayer",
         "descripcion":"un dos maiores escándalos da represión de Tesla",
         "paxina":"desaparicion_carla_aunenmayer.html"
+    },
+    {
+        "data":"23 9 1995",
+        "tipo":"N",
+        "afectado":"Valeria Racu",
+        "descripcion":"a segunda presidenta do Comisariado",
+        "paxina":"valeria_racu.html"
+    },
+    {
+        "data":"28 6 2083",
+        "tipo":"M",
+        "afectado":"Valeria Racu",
+        "descripcion":"a segunda presidenta do Comisariado",
+        "paxina":"valeria_racu.html"
     }
 ]
