@@ -622,5 +622,19 @@
         "afectado":"Valeria Racu",
         "descripcion":"a segunda presidenta do Comisariado",
         "paxina":"valeria_racu.html"
+    },
+    {
+        "data":"6 1 2341",
+        "tipo":"N",
+        "afectado":"Toma Kovačić",
+        "descripcion":"único presidente en ser executado",
+        "paxina":"toma_kovacic.html"
+    },
+    {
+        "data":"22 2 2423",
+        "tipo":"M",
+        "afectado":"Toma Kovačić",
+        "descripcion":"único presidente en ser executado",
+        "paxina":"toma_kovacic.html"
     }
 ]

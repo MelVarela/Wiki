@@ -288,5 +288,10 @@
         "link":"valeria_racu.html",
         "nome":"Valeria Racu",
         "etiquetas":[]
+    },
+    {
+        "link":"toma_kovacic.html",
+        "nome":"Toma Kovačiću",
+        "etiquetas":["toma kovacic"]
     }
 ]
