@@ -52,6 +52,7 @@ aside{
 	float: left;
 	width: 13%;
 	height: 100%;
+	word-wrap: break-word;
 }
 
 aside ul{
@@ -83,7 +84,7 @@ section ul li{
 
 /* Figure (Tabla general) */
 figure{
-	float: right;
+	float: left;
 	width: 20%;
 }
 figure table{
@@ -308,4 +309,16 @@ h3{
 
 #tipografia{
 	font-family: Times New Roman;
+}
+
+/* Advertencia */
+
+.advertencia{
+	border: black, thin, solid;
+	background: linear-gradient(0deg,rgba(255, 112, 136, 1) 0%, rgba(255, 145, 165, 1) 50%, rgba(255, 255, 255, 1) 100%);
+	text-align: center;
+	width: 95%;
+}
+.advertencia > {
+	padding: 10px;
 }

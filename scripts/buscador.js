@@ -56,9 +56,27 @@ function mostarResultados(){
     }else document.getElementById("menuBusqueda").innerHTML = "";
 }
 
+function enviarPeticion(link){
+    fetch("https://6adfaf208e42963c8d5e498b.mockapi.io/peticion", {
+        method: "POST",
+        body: JSON.stringify({
+            peticion: link,
+            id: Date.now.toString
+        }),
+        headers: {
+            "Content-type": "application/json; charset=UTF-8"
+        }
+    })
+}
+
 document.getElementById("bb").addEventListener("input", function(){mostarResultados()})
-    document.getElementById("buscador").addEventListener("click", function(){buscar()});
-    document.getElementById("bb").addEventListener("keyup", function(event) {
-        event.preventDefault();
-        if (event.keyCode === 13) document.getElementById("buscador").click();
-    });
+document.getElementById("buscador").addEventListener("click", function(){buscar()})
+document.getElementById("bb").addEventListener("keyup", function(event) {
+    event.preventDefault();
+    if (event.keyCode === 13) document.getElementById("buscador").click();
+});
+
+let links = Array.prototype.slice.call(document.getElementsByClassName("falsoLink"))
+for (let index = 0; index < document.getElementsByClassName("falsoLink").length; index++) {
+    links[index].addEventListener("click", function(){enviarPeticion(links[index].innerHTML)})
+}
