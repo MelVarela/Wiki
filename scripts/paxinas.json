@@ -292,6 +292,11 @@
     {
         "link":"toma_kovacic.html",
         "nome":"Toma Kovačiću",
-        "etiquetas":["toma kovacic"]
+        "etiquetas":["toma kovacic", "kovacic"]
+    },
+    {
+        "link":"maria_cantwell.html",
+        "nome":"María Cantwell",
+        "etiquetas":["maria cantwell", "cantwell"]
     }
 ]

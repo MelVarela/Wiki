@@ -17,7 +17,7 @@
     },
     {
         "nombre":"Nova",
-        "bandera":"https://i.pinimg.com/originals/c1/64/24/c164249abe3681cb2b5bb34cc99cd6ab.jpg",
+        "bandera":"../imgs/bandeira_de_nova.jpg",
         "superficie":"496&nbsp237&nbsp000",
         "poblacion":"56&nbsp834&nbsp746&nbsp382",
         "economia":"19&nbsp883&nbsp843,457",
@@ -81,7 +81,7 @@
     },
     {
         "nombre":"Neria",
-        "bandera":"https://64.media.tumblr.com/c8ce50c2b0ff7a7fa0cff8d03e238f03/tumblr_pio2pbfOF01xwi2z1o1_1280.png",
+        "bandera":"../imgs/bandeira_de_neria.png",
         "superficie":"387&nbsp064&nbsp836",
         "poblacion":"32&nbsp619&nbsp504&nbsp005",
         "economia":"19&nbsp876&nbsp764,452",
