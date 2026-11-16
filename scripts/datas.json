@@ -509,7 +509,14 @@
         "tipo":"M",
         "afectado":"Maria Cantwell",
         "descripcion":"trixesima presidenta de Eridanus",
-        "paxina":"listado_presidentes_eridanus.html"
+        "paxina":"maria_cantwell.html"
+    },
+    {
+        "data":"11 3 2398",
+        "tipo":"N",
+        "afectado":"Maria Cantwell",
+        "descripcion":"trixesima presidenta de Eridanus",
+        "paxina":"maria_cantwell.html"
     },
     {
         "data":"20 10 2468",
