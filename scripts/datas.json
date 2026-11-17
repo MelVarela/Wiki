@@ -638,10 +638,17 @@
         "paxina":"toma_kovacic.html"
     },
     {
-        "data":"22 2 2423",
+        "data":"28 9 2421",
         "tipo":"M",
         "afectado":"Toma Kovačić",
         "descripcion":"único presidente en ser executado",
+        "paxina":"toma_kovacic.html"
+    },
+    {
+        "data":"28 9 2421",
+        "tipo":"S",
+        "afectado":"A execución de Toma Kovačić",
+        "descripcion":"por incumplir unha orde do Comisario Xeral",
         "paxina":"toma_kovacic.html"
     }
 ]
